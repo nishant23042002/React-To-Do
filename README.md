@@ -6,7 +6,7 @@
 
 ## Setup Instructions
 
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/nishant23042002/React-To-Do
 <br />
 cd ToDo-List  
 <br />
