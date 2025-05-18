@@ -2,11 +2,10 @@
 
 ## Features
 - Add, edit, delete, and mark tasks as completed.
-- Built with React + TailwindCSS.
+- Built with React + TailwindCSS + React-Icons.
 
 ## Setup Instructions
-```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/nishant23042002/React-To-Do.git
 cd todo-app
 npm install
 npm run dev
