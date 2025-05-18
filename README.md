@@ -6,6 +6,9 @@
 
 ## Setup Instructions
 git clone https://github.com/nishant23042002/React-To-Do.git
+<br />
 cd todo-app
+<br />
 npm install
+<br />
 npm run dev
