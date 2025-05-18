@@ -2,7 +2,7 @@
 
 ## Features
 - Add, edit, delete, and mark tasks as completed.
-- Built with React + TailwindCSS.
+- Built with React + TailwindCSS + React-Icons.
 
 ## Setup Instructions
 
