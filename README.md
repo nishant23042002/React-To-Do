@@ -8,7 +8,7 @@
 
 git clone https://github.com/your-username/todo-app.git
 <br />
-cd todo-app
+cd ToDo-List  
 <br />
 npm install
 <br />
